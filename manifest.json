@@ -62,15 +62,14 @@
     },
     {
       "log_codes": [
-        "UidNotFound",
-        "InvalidFileLink"
+        "UidNotFound"
       ],
       "type": "Toc",
       "source_relative_path": "docs/packages/latest/toc.yml",
       "output": {
         ".html": {
           "relative_path": "docs/packages/latest/toc.html",
-          "hash": "qXONJXaZpxU0o8ySRQuCwQ=="
+          "hash": "lB8rC8Nx9hOjKUGtQ15y9Q=="
         }
       },
       "is_incremental": false,
