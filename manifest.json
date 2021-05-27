@@ -5,6 +5,17 @@
   "files": [
     {
       "type": "Resource",
+      "source_relative_path": "convergejs-logo-small.svg",
+      "output": {
+        "resource": {
+          "relative_path": "convergejs-logo-small.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "convergejs-logo.png",
       "output": {
         "resource": {
@@ -31,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/getting-started/introduction.html",
-          "hash": "mWrFDaYKpjGiSGbeHbsr3w=="
+          "hash": "cya6PAwQrHJdlaaek+M+Qg=="
         }
       },
       "is_incremental": false,
@@ -55,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/packages/index.html",
-          "hash": "NcrdZfwlTvS2MyEMmmobdg=="
+          "hash": "ES6n4LlXdJSFO1jNU63kkw=="
         }
       },
       "is_incremental": false,
@@ -79,7 +90,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "2FfwsayM0h6s7ZrTuG0elg=="
+          "hash": "VCn3nAc1uu2Aih3ovC5AGw=="
         }
       },
       "is_incremental": false,
