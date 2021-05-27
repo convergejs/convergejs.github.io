@@ -6,7 +6,7 @@ references:
   href: docs/getting-started/introduction.html
 - uid: packages
   name: Package Documentation
-  href: docs/packages/index.html
+  href: docs/packages/packages.html
 - uid: packages.preview
   name: Latest 'preview'
   href: docs/packages/preview/index.html

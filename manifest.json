@@ -61,18 +61,6 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/packages/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/packages/index.html",
-          "hash": "Y12zoLvHyGoTlYCiudQlOA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "log_codes": [
         "UidNotFound",
         "InvalidFileLink"
@@ -83,6 +71,18 @@
         ".html": {
           "relative_path": "docs/packages/latest/toc.html",
           "hash": "qXONJXaZpxU0o8ySRQuCwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/packages.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/packages.html",
+          "hash": "RE7eZwvH3cxvBLdN4BsEyg=="
         }
       },
       "is_incremental": false,
@@ -106,7 +106,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/packages/toc.html",
-          "hash": "rrR1gs19fzH/XxKXBnPp4A=="
+          "hash": "F53L0jwfQ6d70HPZPNSzKw=="
         }
       },
       "is_incremental": false,
@@ -130,7 +130,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "ew2Psjg3v4YVtT2OfLPLVg=="
+          "hash": "Xl4a9gRWLVt2W1jOKsQ/xg=="
         }
       },
       "is_incremental": false,
