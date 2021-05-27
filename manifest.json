@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/packages/index.html",
-          "hash": "ES6n4LlXdJSFO1jNU63kkw=="
+          "hash": "Y12zoLvHyGoTlYCiudQlOA=="
         }
       },
       "is_incremental": false,
@@ -89,15 +89,24 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/index.html",
+          "hash": "NlKeQt0SkvAn8t5gGzjzHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "docs/packages/toc.yml",
       "output": {
         ".html": {
           "relative_path": "docs/packages/toc.html",
-          "hash": "oF+BJX6e6/9KbPzxOOKp0Q=="
+          "hash": "rrR1gs19fzH/XxKXBnPp4A=="
         }
       },
       "is_incremental": false,
@@ -142,7 +151,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 3,
+          "total_file_count": 4,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
