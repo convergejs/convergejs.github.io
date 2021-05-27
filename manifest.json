@@ -73,12 +73,31 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "UidNotFound",
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "docs/packages/latest/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/latest/toc.html",
+          "hash": "qXONJXaZpxU0o8ySRQuCwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "docs/packages/toc.yml",
       "output": {
         ".html": {
           "relative_path": "docs/packages/toc.html",
-          "hash": "nxIrJNMFfepk5rPWzi+JxA=="
+          "hash": "oF+BJX6e6/9KbPzxOOKp0Q=="
         }
       },
       "is_incremental": false,
