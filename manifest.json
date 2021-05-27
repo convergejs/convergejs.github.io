@@ -5,11 +5,11 @@
   "files": [
     {
       "type": "Conceptual",
-      "source_relative_path": "docs/introduction.md",
+      "source_relative_path": "docs/getting-started/introduction.md",
       "output": {
         ".html": {
-          "relative_path": "docs/introduction.html",
-          "hash": "K/Ort9g2/Glr14EanUGfgA=="
+          "relative_path": "docs/getting-started/introduction.html",
+          "hash": "806A0A8koZZn90yLZMAD1g=="
         }
       },
       "is_incremental": false,
@@ -17,11 +17,59 @@
     },
     {
       "type": "Toc",
-      "source_relative_path": "docs/toc.yml",
+      "source_relative_path": "docs/getting-started/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "docs/toc.html",
+          "relative_path": "docs/getting-started/toc.html",
           "hash": "2mKAVmKuO0L9jSc6QnEdkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/index.html",
+          "hash": "4i4ejsLADLx+KgadHmSmgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/packages/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/toc.html",
+          "hash": "nxIrJNMFfepk5rPWzi+JxA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "EVKWtVK6yR7zmOqMyxyj1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "ew2Psjg3v4YVtT2OfLPLVg=="
         }
       },
       "is_incremental": false,
@@ -42,7 +90,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 1,
+          "total_file_count": 3,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

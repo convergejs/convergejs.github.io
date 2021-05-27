@@ -1,3 +1,9 @@
 ### YamlMime:XRefMap
 sorted: true
-references: []
+references:
+- uid: introduction
+  name: Introduction
+  href: docs/getting-started/introduction.html
+- uid: package-docs
+  name: Package Documentation
+  href: docs/packages/index.html
