@@ -8,5 +8,5 @@ references:
   name: Package Documentation
   href: docs/packages/packages.html
 - uid: packages.preview
-  name: Latest 'preview'
-  href: docs/packages/preview/preview.html
+  name: 1.0.0-preview.14
+  href: docs/packages/preview/index.html
