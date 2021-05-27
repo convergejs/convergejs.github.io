@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/getting-started/introduction.html",
-          "hash": "cya6PAwQrHJdlaaek+M+Qg=="
+          "hash": "kkyvjdkAjnZVOkRfddipzlVxvL1Cpp7ePHH81xsEfRw="
         }
       },
       "is_incremental": false,
@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/getting-started/toc.html",
-          "hash": "2mKAVmKuO0L9jSc6QnEdkA=="
+          "hash": "m2S1Yi8n1lPXDZKT5Jv0VY0xWYHT7GRxoxwMIyyIMSI="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/packages/packages.html",
-          "hash": "RE7eZwvH3cxvBLdN4BsEyg=="
+          "hash": "5auD3Y6NKS7a2WqZXiL+E5zhorpNGtuXjnfJlcvQSig="
         }
       },
       "is_incremental": false,
@@ -78,7 +78,331 @@
       "output": {
         ".html": {
           "relative_path": "docs/packages/preview/index.html",
-          "hash": "EBuBPLpAGCVjWbBcrHaDPg=="
+          "hash": "XPV2gfIH9vx0dHUzvagJRlDSmfQ3f8IyXI1orQFsloI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.addexports.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.addexports.html",
+          "hash": "dzSn11WcaQsyDVMlJLsbc9NBdgLcumQwq3hEzHP+dRc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.ambiguousexportserror._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.ambiguousexportserror._constructor_.html",
+          "hash": "5IEaqyAPKzlGumqLqF2H3jDnNo0JF83YCLId1fcfBtY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.ambiguousexportserror.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.ambiguousexportserror.html",
+          "hash": "J55ecJFD7qVaaqek4gMP/AcMeVernSGKMqIc4Cr9qco="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.classexportfunction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.classexportfunction.html",
+          "hash": "hkIU8Ldw239GHSdTEFsDrehEeWHyjl3/9DKsJDgwWXw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.defineexport.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.defineexport.html",
+          "hash": "SoXhpcHYpWIqHpx8q2xkHl4GyKaXW8jKwYVTTwvf2PQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.export.instance.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.export.instance.html",
+          "hash": "Wi6q1vJMBDBpV3BYGM03tUxbU24N8f4pFiAvnaEtQz4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.export.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.export.html",
+          "hash": "bP1hqy6HXPNfK2ZzJ96DLcSofjkuyndSUgthOTBj4zI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.export.singleton.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.export.singleton.html",
+          "hash": "g1LqDwCtDksJwE/BBuOVUxn/JFW/u/6VGEUAq83rXhg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.exportdeclaration.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.exportdeclaration.html",
+          "hash": "o0HBcQPv00CYqZxqV5PjgIzcxaGNzPw0fT0QXKKi8Og="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.exportfor.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.exportfor.html",
+          "hash": "A2baqR0kQSF7uTCSKBJfmXgx6y3wNHb86WGi5EMJvFs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.exportfor_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.exportfor_1.html",
+          "hash": "cZKbWwupzUSXtru25ZUn3rg+AVvzQxdo+kHzb5752YY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.exportfunction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.exportfunction.html",
+          "hash": "5xNCe4bp9I9URzmd14FXrUkJsZ6JXW8WREUCwhfoidM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.inject.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.inject.html",
+          "hash": "dWdtFkCDG6V/EnEJZMTDOV7X3L8IZnAjS4fX99bEVE4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.inject_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.inject_1.html",
+          "hash": "qRqjBO+snRlK4IANawKZasUfQdH0BBFU7RhZHSn4p0k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.injectionerror._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.injectionerror._constructor_.html",
+          "hash": "hgQ8mPRQV43/orLctNP3dTQUuUBCafjfiHwgKThmiTc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.injectionerror.exportdecl.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.injectionerror.exportdecl.html",
+          "hash": "9pK2IJ4uP2UYRGdsbTDcDh3+vg9UaoGQ5d0DHilFxm4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.injectionerror.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.injectionerror.html",
+          "hash": "HNfXO/m3Hk9kHjZ1edMPgMFe7aAT7fUu+i044r/kmF0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.injectionscope.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.injectionscope.html",
+          "hash": "I8Wc3HSguILdnFe0Ek15m0gsUCr+S4bc83Wk3lTfpFA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.lazyexport.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.lazyexport.html",
+          "hash": "8gAewGSD9pSBy4JZ5/ZSAi+C3wvJQd+A94e06KtPi88="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.lazyinject.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.lazyinject.html",
+          "hash": "LbAQJidhQGedJSihfUBp8M0xM8GF494nnNAzK/ZJOsk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.lazyinject_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.lazyinject_1.html",
+          "hash": "6+Z0wAi0Q5UyAHdtLFx/Pk25jKu42t6ovYfSWtYWgIg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.lazyinjectmany.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.lazyinjectmany.html",
+          "hash": "eoXRFDsQRDNC9dsCm2zzWnsBbREqSmdhAKfVjSxHO3Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.lazyinjectmany_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.lazyinjectmany_1.html",
+          "hash": "0b0ypl4ST0zjb620KYRriYS5lAf2ZDRr/eII11N8wck="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/injector.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/injector.html",
+          "hash": "vL4WljG4MWgxdd+F9YAqGDiNxBOI6WGg9aO+VNVzd6M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/preview.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/preview.html",
+          "hash": "ZZTy6RetpemPanzAVK8DfZLoTF+86Apy8ND7sylY22k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.assert.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.assert.html",
+          "hash": "QbStdP+z8DYUBWb41zC85C9ArNbiRXg8m3YUZpZfbtY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.assertoptions.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.assertoptions.html",
+          "hash": "mhsfICm6QQK8OvQ0816eFJQApakNxboZHXKJIfO5A/0="
         }
       },
       "is_incremental": false,
@@ -86,14 +410,638 @@
     },
     {
       "log_codes": [
-        "UidNotFound"
+        "InvalidFileLink"
       ],
-      "type": "Toc",
-      "source_relative_path": "docs/packages/preview/toc.yml",
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.assertoptions.targetlogger.md",
       "output": {
         ".html": {
-          "relative_path": "docs/packages/preview/toc.html",
-          "hash": "qRRTLGNFQoR05ZzxOB1uKA=="
+          "relative_path": "docs/packages/preview/runtime.assertoptions.targetlogger.html",
+          "hash": "H9/1tIGeiC6nAYq/lZSLatdc8yAQY+VL2CSxMLgua8M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.assertoptions.throw.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.assertoptions.throw.html",
+          "hash": "l4Vg+JbKNl8pIGy6JLYZskcnf/mHeseJX+V8uuq1QWg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.consoleloggertype.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.consoleloggertype.html",
+          "hash": "Qchh3Gic5YXT02e67kzvlB7jdJrkz6ulCM6KtavC1Bo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.currentruntime.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.currentruntime.html",
+          "hash": "L53zcYacE4VUloWOpGugTCrEIM8W0keso7AKnp8uDkk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.currentruntimeglobal.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.currentruntimeglobal.html",
+          "hash": "pkbniT3bJ49ZQHu1Nn2Nhf7nBO+0BvnSB2/bN+otZKE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.invalidoperationerror._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.invalidoperationerror._constructor_.html",
+          "hash": "fQfVxDVd19wNCVUxzqx/nEhTUhEL6XGX2nm5CMr1Ra0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.invalidoperationerror._constructor__1.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.invalidoperationerror._constructor__1.html",
+          "hash": "Ix93a6Xrm1YZU/QmTQzcqfw9/+lLNVgtjHB+GS/DF04="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.invalidoperationerror.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.invalidoperationerror.html",
+          "hash": "pbKlh3zuoNcB9YvLmz8AhL4JA5gdql46VJc594QPFCY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.html",
+          "hash": "RJL8zrJydk4Prtne75vsvG9FKw5o2eKq+AB3QmIlUPk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.operationabortederror._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.operationabortederror._constructor_.html",
+          "hash": "OhCb7LNLmrcY0TwdJO0wMS8+4cHnM1JZj1kQxs3uYgg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.operationabortederror._constructor__1.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.operationabortederror._constructor__1.html",
+          "hash": "9BKdHeZZcqMzol9/588p7cziclpKQ2idJ1eubxBXpLc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.operationabortederror._constructor__2.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.operationabortederror._constructor__2.html",
+          "hash": "9cx83JsttQhznFwlwMZf4C0I1CJwzM9R3e54X6TFLdI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.operationabortederror.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.operationabortederror.html",
+          "hash": "/ADtHGBc247aUed+GOUO0UZDN41VfXgQ7zGkwWF5tjQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.promisedvaluesource._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.promisedvaluesource._constructor_.html",
+          "hash": "fd/bv2GN82IBGVUvE8VCed97RWwIznsjw/gVL8x3Dbs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.promisedvaluesource._constructor__1.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.promisedvaluesource._constructor__1.html",
+          "hash": "jK7tmdnONOOZdepMWQqp4KVXUcRNjNWoorwCotTweGI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.promisedvaluesource.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.promisedvaluesource.html",
+          "hash": "6S0jd9O0ySrBURhCrycByCu/BvT5qqYf3uLxHCmo048="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.promisedvaluesource.promise.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.promisedvaluesource.promise.html",
+          "hash": "z/lUduTazY1Iifvt94hUOFEe90mEPFXMaH9tASSykr4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.promisedvaluesource.seterror.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.promisedvaluesource.seterror.html",
+          "hash": "XTuByfw0UbrSfZwCIvr/hAJfszT0xWj2UK78+aipSU4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.promisedvaluesource.setvalue.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.promisedvaluesource.setvalue.html",
+          "hash": "nA72LZl7cIWrfvwFKS381rFOx0+ZCQ2cO8xe6zvUm7g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.runtimeassertionerror._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.runtimeassertionerror._constructor_.html",
+          "hash": "lx1SZQL4TAoQCJ6g2V1XPOUOIFAw6b9530aOwHP7wpU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.runtimeassertionerror.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.runtimeassertionerror.html",
+          "hash": "xxYABwuRVX0ilb/K1JsQvXlx7CKc5GfwvSLof6nCsQY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.runtimeerror._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.runtimeerror._constructor_.html",
+          "hash": "PI6kqC/QQdsFKyUkT2dPS5flP9+zTecZjbnYLWdTwC4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.runtimeerror._constructor__1.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.runtimeerror._constructor__1.html",
+          "hash": "rhtNfdcYfZDogvC8jebpsUb8SmA+wWxHa4JLCrNkEno="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.runtimeerror.innererror.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.runtimeerror.innererror.html",
+          "hash": "OHYkfcKDibV0/uzeirlM3s6iztnx1p3VlFmyXJIIXvg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.runtimeerror.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.runtimeerror.html",
+          "hash": "cOUBEjpCbPkin4rt0BZYcLsHC3c5ParGlU0Y0wYdZ3c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.runtimeflags.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.runtimeflags.html",
+          "hash": "5HqWaoKLZzLxHpLMPssX52fyGwC9W5jnRy0AFubbbgY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.waithandle.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.waithandle.html",
+          "hash": "MKruk8JOwsySABmVG1UUITx99qnLBHYu72tv1kx+kpg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.waithandle.set.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.waithandle.set.html",
+          "hash": "XSM1twfzgfVCNVIGYtTAYNYZXTtasbZnDcJ5fY1z88Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/runtime.waithandle.wait.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/runtime.waithandle.wait.html",
+          "hash": "LIUn5qUPOUBeSzUsGUu6AuCjKUi6y2lXq1ri42otp4Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.computedscopedeclaration.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.computedscopedeclaration.html",
+          "hash": "JUGW706HmbckbMUMk9ssGxCNDbQ4k/jLdsdDy+8Vy4c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.definescope.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.definescope.html",
+          "hash": "6AQjeaeaVrI5Ws3ndTmBdW5P4LJUYe4d2m73qsKdFo4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.definescope_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.definescope_1.html",
+          "hash": "Pfw3ae9PvUHI6eAk+2rcNzEI67kg6uZ6t51yVBOu5Ks="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.html",
+          "hash": "8DAmdH11mv08KCGOVE1tNxyWOMxtXTOTOdWMMFgrqjk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.scope.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.scope.html",
+          "hash": "yf288ixAvsLFWcx4Rg/dvWVf8Hd5hXyNOQV5kZdwaBE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.scopecapturedfunction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.scopecapturedfunction.html",
+          "hash": "b2p0LAlvk02jE+omsLFHJzNNYTVG+LvC+OA3vwq0MxA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.scopecontext._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.scopecontext._constructor_.html",
+          "hash": "AkH5veW8NzkX9dQTQiebZaDiMq++/6cimpyQv66Iw3o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.scopecontext.getscope.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.scopecontext.getscope.html",
+          "hash": "T+6+8dBGGT6JYZ+or+rU5AG6UGRDudglm3d6/k6HZW4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.scopecontext.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.scopecontext.html",
+          "hash": "gqBKtNRD+wAfTeU89r3dCebES0ZNWFeRitRA986rra0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.scopedeclaration._scopesymbol.scopeid_.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.scopedeclaration._scopesymbol.scopeid_.html",
+          "hash": "eW7jS8sfdGgcxTpkk5AqrwFrS7ZggxT07kK93bO/7ZE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.scopedeclaration.current.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.scopedeclaration.current.html",
+          "hash": "Nnuba0ldrXfmRhUw35xggrdcObQjWTltThzol2apUb8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.scopedeclaration.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.scopedeclaration.html",
+          "hash": "XpZQ7Fw1+1wqqoSBJcAM/1Gd63bAvzzu5yEy5wTpB50="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.scopeprovider.enter.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.scopeprovider.enter.html",
+          "hash": "ecLGA8LNU7ob+VW8pgsvW/ngMWd/lhOQxmMgSfk2noM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.scopeprovider.getcurrent.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.scopeprovider.getcurrent.html",
+          "hash": "djSUiR1wAIQZpHzphtNhJ9dmoMLyqK7wLFBV7962HXI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.scopeprovider.getorloadruntimeinstance.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.scopeprovider.getorloadruntimeinstance.html",
+          "hash": "NXU48jXQUv12I+mNH1dClccmIw0LVTbF5lleOeMNAJI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.scopeprovider.instance.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.scopeprovider.instance.html",
+          "hash": "2sCaayLTKtFphW+xuKIHT4CSUnFRgCsTMOSqE0MSM70="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.scopeprovider.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.scopeprovider.html",
+          "hash": "kLpXTE2DWhxApehq1IOZohyTFTWNYR2ytaGxX9iliUI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-abstractions.valuescopedeclaration.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-abstractions.valuescopedeclaration.html",
+          "hash": "VTrX+dePYAGXDhHb8UUV2nkfnt0pASuLW1BvkDcLblU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-node.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-node.html",
+          "hash": "5UNXhQiCWPVoOeZtCj/nCvRuPe+9N0bI0Mc0OMtOXGg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-node.nodescopeprovider.enter.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-node.nodescopeprovider.enter.html",
+          "hash": "mzD53CsYvQBaJVW9+mczJzR8XbQWBAfFzBtqARBau80="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-node.nodescopeprovider.getcurrent.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-node.nodescopeprovider.getcurrent.html",
+          "hash": "kT54LTF3u0LabxdUcdOIhbfr0VqvC3jvN1DQ+B3FQC8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes-node.nodescopeprovider.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes-node.nodescopeprovider.html",
+          "hash": "BR3tGB5EjhOS3N7W0YVzCXVSqVbfwEcm13IY+W+JW/8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes.html",
+          "hash": "LwxqzQb8aWXMmh+p6OE/2PKL31wpPHMAuAnLaKBH/A8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/packages/preview/scopes.using.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/packages/preview/scopes.using.html",
+          "hash": "QBbW20giYz/ZNsN3CVdaR6+kCCEinjGEPQ+763GOzUQ="
         }
       },
       "is_incremental": false,
@@ -105,7 +1053,7 @@
       "output": {
         ".html": {
           "relative_path": "docs/packages/toc.html",
-          "hash": "BDZ6OmFw2PNJaUfY9u+yuw=="
+          "hash": "/+7lBLBFK1l/Xk9+JQpX9RsrPSynZ0BnDSbba6YiDfc="
         }
       },
       "is_incremental": false,
@@ -117,7 +1065,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "VCn3nAc1uu2Aih3ovC5AGw=="
+          "hash": "WELFKhsAQg0uA20qTx+5hDQHQvrvUH+FN7Rfej0jdkg="
         }
       },
       "is_incremental": false,
@@ -129,7 +1077,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "gpsjT2cVad6/qJ4CxQZJPg=="
+          "hash": "cTtCqFElxeeaqW0Mt6jmabazX9GfanNpn2G84krCxXY="
         }
       },
       "is_incremental": false,
@@ -150,7 +1098,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 4,
+          "total_file_count": 84,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
@@ -163,13 +1111,6 @@
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        },
-        "UniversalReferenceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor UniversalReferenceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
           "skipped_file_count": 0
